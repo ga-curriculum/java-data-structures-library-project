@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">Java Data Structures Library Project</span>
   <span class="subhead">Deliverables</span>
 </h1>
 
@@ -10,22 +10,6 @@
 - Deployed app URL deliverable
 - Submitting your deliverables
 
-## Project planning deliverable
-
-Planning is vital to build anything more than the most trivial of applications; therefore, this is where you will begin your journey with this project.
-
-### Building your planning materials
-
-tktk Add details instructing students how to build their planning materials, such as what tools they should use to project plan.
-
-### Details
-
-Your planning materials should include the following details about your project for approval by your instructor:
-
-- tktk Planning requirement
-- tktk Planning requirement
-- tktk Planning requirement
-
 ## GitHub repo deliverable
 
 Use your personal account on <https://github.com> to create a ***public*** GitHub repo to use for your project.
@@ -34,7 +18,7 @@ The GitHub repository used for the project must be named appropriately. For exam
 
 ## Deployed app URL deliverable
 
-You'll need to deploy your project on the internet so that others are able to use it! Follow the [tktk Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/tktk/) to deploy your project.
+You'll need to deploy your project on the internet so that others are able to use it! Follow the [Deployed App Deliverable](../deployed-app-deliverable/README.md) to deploy your project.
 
 ## Submitting your deliverables
 

@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">Java Data Structures Library Project</span>
   <span class="subhead">Video Hub</span>
 </h1>
 

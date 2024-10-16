@@ -1,18 +1,14 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">Java Data Structures Library Project</span>
 </h1>
-
-tktk add some default course navigation content here.
-
-tktk This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
 
 ## About
 
 ***Instructors should see the Instructor Guide for more configuration details.***
 
-tktk Write a short but descriptive summary of the content in this module. Add a short description of the project here.
+This project is designed to showcase your understanding of core Java concepts and algorithmic thinking, with all work being publicly available on your personal GitHub for future employers or collaborators to review.
 
 ## Content
 
@@ -22,4 +18,4 @@ tktk Write a short but descriptive summary of the content in this module. Add a 
 
 [Deliverables](./deliverables/README.md)
 
-[tktk Project Requirements PDF](./requirements-and-guidance/assets/project-requirements.pdf)
+[Java Data Structures Library Project Project Requirements PDF](./requirements-and-guidance/assets/project-requirements.pdf)

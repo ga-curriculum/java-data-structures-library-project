@@ -10,9 +10,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "[tktk Module Name]"
+  friendlyName = "Java Data Structures Library Project"
   // This must match the repo name as it appears on GitHub exactly
-  name = "tktk"
+  name = "Java Data Structures Library Project"
   type = "Project"
 }
 

@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">Java Data Structures Library Project</span>
   <span class="subhead">GitHub Repo and Deployed App Deliverable</span>
 </h1>
 
@@ -17,7 +17,7 @@ The GitHub repository used for the project must be named appropriately. For exam
 
 ## Deployed app URL deliverable
 
-You'll need to deploy your project on the internet so that others are able to use it! Follow the [tktk Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/tktk/) to deploy your project.
+You'll need to deploy your project on the internet so that others are able to use it! Follow the [Deployed App Deliverable](../deployed-app-deliverable/README.md) to deploy your project.
 
 ## Submitting your deliverables
 
