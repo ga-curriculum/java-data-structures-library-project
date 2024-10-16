@@ -17,7 +17,7 @@ Before you start planning, review the [project requirements](../requirements-and
 
 ## 2. Create a GitHub repo
 
-Create the public GitHub repo that you'll use for the project. See the [Java Data Structures Library Project Deliverables](../deliverables/README.md) for more details.
+Create the public GitHub repo that you'll use for the project. See the [Project Deliverables](../deliverables/README.md) for more details.
 
 ## 3. Build the project
 
@@ -25,10 +25,10 @@ The fun part! Start building your project! The printable [project requirements P
 
 ## 4. Deploy the work you have so far
 
-Deploy your project to the internet following the included deployment guide and submit a URL for your deployed app. For more details, see the [Java Data Structures Library Project Deliverables](../deliverables/README.md).
+Deploy your project to the internet following the included deployment guide and submit a URL for your deployed app. For more details, see the [Project Deliverables](../deliverables/README.md).
 
 Continue working on your project until presentation day.
 
-## 5. Present your project
+## 5. Submit the URL for your completed project
 
-This project will conclude with project presentations!
+Submit the URL for your the GitHub repo containing your project's JAR file. For more details, See the [Deployed App Deliverable](../deployed-app-deliverable/README.md).

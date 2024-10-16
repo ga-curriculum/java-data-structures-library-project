@@ -13,11 +13,11 @@ This project is designed to showcase your understanding of core Java concepts an
 
 [Project Journey](./project-journey/README.md)
 
-[Requirements and Guidance](./requirements-and-guidance/README.md)
+[Project Requirements and Guidance](./requirements-and-guidance/README.md)
 
-[Deliverables](./deliverables/README.md)
+[Project Deliverables](./deliverables/README.md)
 
-[Java Data Structures Library Project Requirements PDF](./requirements-and-guidance/assets/project-requirements.pdf)
+[Project Requirements PDF](./requirements-and-guidance/assets/project-requirements.pdf)
 
 ## Internal
 
@@ -27,7 +27,7 @@ Students should have an understanding of algorithms and data structures, as well
 
 ### Requirements document
 
-[Java Data Structures Library Project Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1rSfyaqvdtTEyqZP0u-e_17rlz_h-HWfgpmhrtKtSFeI/edit?gid=696206981#gid=696206981)
+[Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1rSfyaqvdtTEyqZP0u-e_17rlz_h-HWfgpmhrtKtSFeI/edit?gid=696206981#gid=696206981)
 
 ### Resources
 
