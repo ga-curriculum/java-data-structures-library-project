@@ -12,10 +12,12 @@ This project is designed to showcase your understanding of core Java concepts an
 
 ## Content
 
-[Project Journey](./project-journey/README.md)
+[Project Journey](../project-journey/README.md)
 
-[Requirements and Guidance](./requirements-and-guidance/README.md)
+[Requirements and Guidance](../requirements-and-guidance/README.md)
 
-[Deliverables](./deliverables/README.md)
+[Project GitHub Repo Deliverable](../github-repo-deliverable/README.md)
 
-[Java Data Structures Library Project Project Requirements PDF](./requirements-and-guidance/assets/project-requirements.pdf)
+[Project Deployed App Deliverable](../deployed-app-deliverable/README.md)
+
+[Java Data Structures Library Project Project Requirements PDF](../requirements-and-guidance/assets/project-requirements.pdf)

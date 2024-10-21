@@ -21,9 +21,10 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 > ✅ Any items marked incomplete in this section will result in the project receiving a failing grade.
 
-- User can select one option from a list of options. Options should include; `Binary Math`, `Stack`, `Queue`, and `Linked List`.
+- User can select one option from a list of options. Options should include: `Binary math`, `Stack`, `Queue`, and `Linked list`.
 
-**Binary Math**
+#### Binary math
+
 - User can input a decimal number and convert it to binary. The binary number should be displayed in the CLI.
 - User can input a binary number and convert it to decimal. The decimal number should be displayed in the CLI.
 - User can input two binary numbers and add them together. The sum should be displayed in the CLI.
@@ -31,7 +32,8 @@ A printable version of the project requirements can be found [here](./assets/pro
 - User can input two binary numbers and multiply them. The product should be displayed in the CLI.
 - User can input two binary numbers and divide them. The quotient should be displayed in the CLI.
 
-**Stacks**
+#### Stack
+
 - User can push an item onto the stack. The stack should be displayed in the CLI.
 - User can pop an item off the stack. The stack should be displayed in the CLI.
 - User can peek at the top item of the stack. The item should be displayed in the CLI.
@@ -39,7 +41,8 @@ A printable version of the project requirements can be found [here](./assets/pro
 - User can check if the stack is full. A message should be displayed in the CLI.
 - User can clear the stack. The stack should be displayed in the CLI.
 
-**Queue**
+#### Queue
+
 - User can add an item to the queue. The queue should be displayed in the CLI.
 - User can remove an item from the queue. The queue should be displayed in the CLI.
 - User can peek at the front item of the queue. The item should be displayed in the CLI.
@@ -47,7 +50,8 @@ A printable version of the project requirements can be found [here](./assets/pro
 - User can check if the queue is full. A message should be displayed in the CLI.
 - User can clear the queue. The queue should be displayed in the CLI.
 
-**Linked List**
+#### Linked list
+
 - User can add an item to the linked list. The linked list should be displayed in the CLI.
 - User can remove an item from the linked list. The linked list should be displayed in the CLI.
 - User can search for an item in the linked list. A message should be displayed in the CLI.
@@ -57,11 +61,10 @@ A printable version of the project requirements can be found [here](./assets/pro
 - User can display the linked list in ascending order. The linked list should be displayed in the CLI.
 - User can display the linked list in descending order. The linked list should be displayed in the CLI.
 
-**Overall Requirements**
+#### Overall requirements
+
 - The app is deployed online so that the rest of the world can use it.
 - You are shown as the only contributor to the project on GitHub.
-- The GitHub repo for your project is on your personal GitHub account.
-- The GitHub repo for your project is publicly accessible.
 
 ### Convention requirements
 
@@ -72,6 +75,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 - The app does not contain dead code, commented-out sections, or console logs.
 - The app can be used without encountering errors.
 - The app is coded using proper indentation.
+- The app's menu is easily navigable by a first-time user.
 - The GitHub repository used for the project must be named appropriately. For example, names that describe your project are appropriate, whereas generic names such as `ga-project` or `unit-project` are not.
 
 ## README requirements

@@ -5,8 +5,4 @@
 
 ### Release details
 
-#### Additions
-
-#### Changes
-
-#### Removals
+This is a brand new project module!

@@ -9,7 +9,8 @@ This is the repo for an individual Java Data Structures Library Project. It incl
 
 - Java Data Structures Library Project Journey
 - Java Data Structures Library Project Requirements and Guidance
-- Java Data Structures Library Project Deliverables [students submit URLs for their project planning materials, a GitHub repo, and a deployed app through the duration of the project. This can be customized - see the **Customizing deliverables** section]
+- Java Data Structures Library Project GitHub Repo Deliverable
+- Java Data Structures Library Project Deployed App Deliverable
 - Java Data Structures Library Project Feedback [in Canvas only]
 
 ## Customizing your project delivery
@@ -28,24 +29,11 @@ Some existing items already covered in this document that you may want to expand
 
 When making additions, avoid overwhelming students with irrelevant or unhelpful details. These documents are already dense for learners, so try not to go overboard by adding too much information.
 
-### Customizing deliverables
-
-Some instructors may want to split the project deliverable into multiple parts to give each item its own due date or to ease data collection. Individual/coupled deliverable pages exist in this content and do not need to be created. These can be found at:
-
-**Individual**:
-
-- [GitHub Repo Deliverable](../github-repo-deliverable/README.md)
-- [Deployed App Deliverable](../deployed-app-deliverable/README.md)
-
-**Coupled**:
-
-- [GitHub Repo and Deployed App Deliverable](../github-repo-and-deployed-app-deliverable/README.md)
-
 ## Notes for maintainers
 
 Edits to project requirements are complex and should be made thoughtfully. When requirements change, alterations need to be made uniformly to the following documents/resources:
 
-- [Java Data Structures Library Project Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1-wllnnJofVGIgOM2YoNkrG6qcfjw5uNHMt9ohFkisak/edit).
+- [Java Data Structures Library Project Project Requirements Google Sheets](https://docs.google.com/spreadsheets/d/1rSfyaqvdtTEyqZP0u-e_17rlz_h-HWfgpmhrtKtSFeI/edit).
 - [Project Requirements PDF](../project-requirements-and-guidance/assets/project-requirements.pdf) (built from the Project Requirements document in Google Sheets).
 - [Project Requirements document served in GitHub Pages](../project-requirements-and-guidance/README.md).
 - All Java Data Structures Library Project rubrics in Canvas.
