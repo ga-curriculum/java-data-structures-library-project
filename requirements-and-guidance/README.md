@@ -61,6 +61,27 @@ A printable version of the project requirements can be found [here](./assets/pro
 - User can display the linked list in ascending order. The linked list should be displayed in the CLI.
 - User can display the linked list in descending order. The linked list should be displayed in the CLI.
 
+### Stretch Goals
+
+Stretch goals are optional. You do not need to complete any stretch goals to pass the project. However, you are encouraged to complete them if you have time.
+
+#### Sets
+
+- User can add an item to a set. The set should be displayed in the CLI.
+- User can remove an item from a set. The set should be displayed in the CLI.
+- User can check if an item is in the set. A message should be displayed in the CLI.
+- User can check if the set is empty. A message should be displayed in the CLI.
+- User can clear the set. The set should be displayed in the CLI.
+
+#### Hash Map
+
+- User can add a key/value pair to a hash map. The hash map should be displayed in the CLI.
+- User can remove a key/value pair from a hash map. The hash map should be displayed in the CLI.
+- User can search for a key in the hash map. A message should be displayed in the CLI.
+- User can check if the hash map is empty. A message should be displayed in the CLI.
+- User can clear the hash map. The hash map should be displayed in the CLI.
+- User can display the hash map in ascending order. The hash map should be displayed in the CLI.
+
 #### Overall requirements
 
 - The app is deployed online so that the rest of the world can use it.
